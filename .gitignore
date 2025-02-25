@@ -2,5 +2,7 @@
 *.err
 /results
 /data
+/rawdata
 /genome
 .DS_Store
+busco_downloads/
